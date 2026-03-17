@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find C:UsersuserDesktop인구정리_에이전트 -type f -name *)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(pip install:*)",
+      "Bash(python3 -m pip install -r \"C:/Users/user/Desktop/인구정리_에이전트/requirements.txt\")",
+      "Bash(python3 -c \":*)",
+      "Bash(python -c \":*)"
+    ]
+  }
+}
